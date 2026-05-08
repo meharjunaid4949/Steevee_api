@@ -1,7 +1,5 @@
-cat > requirements.txt << 'EOF'
 flask
 flask-cors
 gunicorn
 requests
 python-dotenv
-EOF
